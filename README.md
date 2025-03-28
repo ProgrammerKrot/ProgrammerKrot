@@ -13,6 +13,8 @@ On the academic side, I applied to several universities and got accepted by ESSE
 Also, fun fact: I can probably debug your soul better than your code. Just saying.  
 </i></p>
 
+
+
 ## 🙋‍♂️ It’s me, your friendly neighborhood developer
 
 </br>
