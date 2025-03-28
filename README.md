@@ -2,10 +2,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8D0000&size=25&center=false&lines=Ola!+its+WerterKrot;Main+Developer+at+novAIcarius...;Data+Science+Enthusiast...;Entrepreneur...;Just+Courius+Dude..."/>
  
- <p><i>Hi! Its me speaking. Do you know I have a large software developing experience? I would be amazed to share it with you! I started programming in 13 and so far I reached WebSummit with my own Startup connected to AI and Machine Learning! You can say touch grass, but I have hobbies too! They are ukulele, Data Science (if you know smth new, please reach out) and business management. Okay, maybe I do need touch grass... However, I applied to the unis and so far got accepted by ESSEC, CentraleSupelec, Paris-Saclay, RHIT, NYIT, Reed and Vrije. I hope to be proud student of UPorto!
- 
- </i></p>
+<p><i>Hi! It's me speaking. Did you know I have extensive experience in software development? I'd be thrilled to share it with you!  
 
+I started programming at 13, and so far, I've made it to WebSummit with my own AI and Machine Learning startup! You might tell me to touch grass, but I do have hobbies—playing the ukulele, exploring Data Science (if you know anything new, please reach out!), and business management. Okay, maybe I *do* need to touch grass...  
+
+However, I applied to several universities and have been accepted by ESSEC, CentraleSupélec, Paris-Saclay, RHIT, NYIT, Reed, and Vrije. I hope to become a proud student at UPorto!  
+</i></p>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU3Y2lza2E2cXYydzh6OTdibTE1cW4wemNiaG55NDN0Z2xjZXRocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif" width="50%" align="right" />
 
