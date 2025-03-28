@@ -19,7 +19,7 @@ Also, fun fact: I can probably debug your soul better than your code. Just sayin
 
 </br>
 
-- ⚡ My favorite number > 27. Don't ask why.  
+- ⚡ My favorite number > 27. If you know you know - it is sweet.  
 - 🔧 Currently working on the *Universal PDF Formatting Tool* (yes, PDFs will finally behave).  
 - 💡 Mildly obsessed with Blockchain and Cryptocurrency.   
 - 📖 Learning Portuguese—so if I accidentally summon a demon instead of ordering coffee, my bad.  
