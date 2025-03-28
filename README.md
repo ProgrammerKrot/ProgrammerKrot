@@ -1,4 +1,4 @@
-# Hey there👋, Welcome to my Github Profile
+# Wow! What are you doing here?
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8D0000&size=25&center=false&lines=Ola!+its+WerterKrot;Main+Developer+at+novAIcarius...;Data+Science+Enthusiast...;Entrepreneur...;Just+Courius+Dude..."/>
  
@@ -12,17 +12,15 @@ create impactful solutions, and someday reaching Cyberpunk!</i></p>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU3Y2lza2E2cXYydzh6OTdibTE1cW4wemNiaG55NDN0Z2xjZXRocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif" width="50%" align="right" />
 
-## ⚡🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 </br>
-
+- ⚡ My favorite number > 27.
 - 🔧 I’m currently working on Universal PDF Formatting Tool.
 - 💡 I’m curious about Blockchain and Crypto Currency.
 - 📖 I’m currently learning Portuguese.
 - ❄️ I’m looking to collaborate on Community Oriented Projects.
 - 📫 How to reach me nikitaluksha@novaicarius.com.
 
-<!--
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  -->
 
 
