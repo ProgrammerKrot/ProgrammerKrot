@@ -12,7 +12,7 @@ create impactful solutions, and someday reaching Cyberpunk!</i></p>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU3Y2lza2E2cXYydzh6OTdibTE1cW4wemNiaG55NDN0Z2xjZXRocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif" width="50%" align="right" />
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ It is me
 
 </br>
 
