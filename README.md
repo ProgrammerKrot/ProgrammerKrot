@@ -8,7 +8,8 @@ I started programming at 13 (yes, while other kids were outside playing), and so
 
 You might tell me to touch grass, but surprise—I actually have hobbies! I play the ukulele (not professionally, but still), geek out over Data Science (if you know something mind-blowing, spill the tea), and dabble in business management. Okay, okay... maybe I *do* need to touch grass.  
 
-On the academic side, I applied to several universities and got accepted by ESSEC, CentraleSupélec, Paris-Saclay, RHIT, NYIT, Reed, and Vrije. Now, fingers crossed, I become a proud student at UPorto! 🚀  
+On the academic side, I applied to several universities and got accepted by ESSEC, CentraleSupélec, Paris-Saclay, RHIT, NYIT, Reed, and Vrije. Now, fingers crossed, I become a proud student at UPorto! 🚀 
+(but my true love is Cisco and Yandex)
 
 Also, fun fact: I can probably debug your soul better than your code. Just saying.  
 </i></p>
