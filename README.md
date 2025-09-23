@@ -1,7 +1,7 @@
 # ⟦ 𝑵𝒊𝒌𝒊𝒕𝒂 𝑨𝒏𝒅𝒓é 𝑳𝒖𝒌š𝒂 ⟧  
 
 > ML/AI Developer · Data Science · Entrepreneur  
-> (they/them — not as binary as my code)  
+> (not as binary as my code)  
 
 ⟡ Main Architect at **novAIcarius**  
 ⟡ Building the **Universal PDF Formatting Tool**  
