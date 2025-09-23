@@ -1,28 +1,55 @@
-# 🤔 Wow! What are you doing here?
+# ⟦ 𝑾𝒐𝒘! 𝑾𝒉𝒂𝒕 𝒂𝒓𝒆 𝒚𝒐𝒖 𝒅𝒐𝒊𝒏𝒈 𝒉𝒆𝒓𝒆? ⟧
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8D0000&size=25&center=false&lines=Ola!+It's+WerterKrot;Main+Developer+at+novAIcarius...;Data+Science+Enthusiast...;Entrepreneur...;Just+a+Curious+Dude..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8D0000&size=25&center=false&lines=𝑶𝒍𝒂!+𝑰𝒕'𝒔+𝑵𝒊𝒌𝒊𝒕𝒂+𝑨𝒏𝒅𝒓é+𝑳𝒖𝒌š𝒂;𝑴𝑳+%26+𝑨𝑰+𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓;𝑫𝒂𝒕𝒂+𝑺𝒄𝒊𝒆𝒏𝒄𝒆+𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕;𝑬𝒏𝒕𝒓𝒆𝒑𝒓𝒆𝒏𝒆𝒖𝒓;𝑪𝒖𝒓𝒊𝒐𝒖𝒔+𝑳𝒆𝒂𝒓𝒏𝒆𝒓"/>
 
-<p><i>Hey there! It's me speaking. Did you know I have extensive experience in software development? No? Well, now you do! I'd be thrilled to share it with you!  
+---
 
-I started programming at 13 (yes, while other kids were outside playing), and so far, I've made it to WebSummit with my own AI and Machine Learning startup! Pretty cool, right? But wait, there's more!  
+## ❖ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆  
 
-You might tell me to touch grass, but surprise—I actually have hobbies! I play the ukulele (not professionally, but still), geek out over Data Science (if you know something mind-blowing, spill the tea), and dabble in business management. Okay, okay... maybe I *do* need to touch grass.  
+Hi, I’m **𝑵𝒊𝒌𝒊𝒕𝒂 𝑨𝒏𝒅𝒓é 𝑳𝒖𝒌š𝒂** (they/them).  
+I started programming at 13 and never really stopped. From small experiments to building an AI/ML startup that made it to **WebSummit**, my journey has always been about curiosity and creation.  
 
-On the academic side, I applied to several universities and got accepted by ESSEC, CentraleSupélec, Paris-Saclay, RHIT, NYIT, Reed, and Vrije. Now, fingers crossed, I become a proud student at UPorto! 🚀 
-(but my true love is Cisco and Yandex)
+I’m deeply passionate about **𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑨𝑰, 𝒂𝒏𝒅 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆**, but I also explore blockchain, entrepreneurship, and open-source collaboration.  
 
-Also, fun fact: I can probably debug your soul better than your code. Just saying.  
-</i></p>
+⟡ *Not as binary as the computers I code on — but you’ve got this*  
+⟡ Proud of my girlfriend **Elle**  
+⟡ Grateful for my amazing **novAIcarius team**  
 
+---
 
+## ❖ 𝑾𝒉𝒂𝒕 𝑰 𝑫𝒐  
 
-## 🙋‍♂️ It’s me, your friendly neighborhood developer
+- ⟦⟧ Main Software Architect at **novAIcarius**  
+- ⟦⟧ Exploring **Blockchain & Cryptocurrency** (tech + futures)  
+- ⟦⟧ Building the **Universal PDF Formatting Tool** (yes, PDFs will *finally* behave)  
+- ⟦⟧ Excited about **community-driven, collaborative projects**  
+- ⟦⟧ Forever learning (currently Portuguese)  
 
-</br>
+---
 
-- ⚡ My favorite number > 27. If you know you know - it is sweet.  
-- 🔧 Currently working on the *Universal PDF Formatting Tool* (yes, PDFs will finally behave).  
-- 💡 Mildly obsessed with Blockchain and Cryptocurrency.   
-- 📖 Learning Portuguese—so if I accidentally summon a demon instead of ordering coffee, my bad.  
-- ❄️ Looking to collaborate on cool Community-Oriented Projects.  
-- 📫 Need me? Summon me via: nikitaluksha@novaicarius.com.  
+## ❖ 𝑨𝒄𝒂𝒅𝒆𝒎𝒊𝒄𝒔  
+
+I’ve been fortunate to receive offers from:  
+**ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije**  
+
+Currently aiming to pursue studies at **UPorto** and **IPCA**  
+(Still committed to **Cisco** and **Yandex**, of course)  
+
+---
+
+## ❖ 𝑶𝒖𝒕𝒔𝒊𝒅𝒆 𝒐𝒇 𝑪𝒐𝒅𝒆  
+
+- ⟡ Play the **ukulele** and dream of cyberpunk futures  
+- ⟡ Geek out over **business & startups**  
+- ⟡ Occasionally *do* touch grass  
+
+---
+
+## ❖ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕  
+
+✉ **nikitaluksha@novaicarius.com**  
+Open to collaboration, mentorship, or just a good conversation  
+
+---
+
+❖ *“Code is poetry — and I’m still writing my verses.”* ❖
