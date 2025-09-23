@@ -5,15 +5,16 @@
 
 ⟡ Main Architect at **novAIcarius**  
 ⟡ Building the **Universal PDF Formatting Tool**  
-⟡ Passionate about **AI, Blockchain, Open Source**  
+⟡ Passionate about **AI, Blockchain, Open Source and Crypto**  
 ⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije  
-⟡ Currently pursuing studies at **UPorto & IPCA**  
+⟡ WebSummit attendant, **Cisco** and **Yandex** graduate
+⟡ ONI · Worldskills · Worldskills Junior
 
 Outside code: ukulele, cyberpunk ideas, startups, and sometimes grass 🌱  
-Proud partner to **Elle** ❖ Grateful for the **novAIcarius team**  
+Proud of my girlfriend **Elle** ❖ Grateful for the **novAIcarius team**  
 
 ✉ **nikitaluksha@novaicarius.com**  
 
 ---
 
-❖ *“Code is poetry — and I’m still writing my verses.”* ❖
+❖ *“There is no prize to perfection… only an end to pursuit.”* ❖
