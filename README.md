@@ -7,8 +7,9 @@
 ⟡ Building the **Universal PDF Formatting Tool**  
 ⟡ Passionate about **AI, Blockchain, Open Source and Crypto**  
 ⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije  
-⟡ WebSummit attendant, **Cisco** and **Yandex** graduate
-⟡ ONI · Worldskills · Worldskills Junior
+⟡ WebSummit attendant, **Cisco** and **Yandex** graduate  
+⟡ ONI · Worldskills · Worldskills Junior  
+⟡ Arch Linux user <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="18"/>  
 
 Outside code: ukulele, cyberpunk ideas, startups, and sometimes grass 🌱  
 Proud of my girlfriend **Elle** ❖ Grateful for the **novAIcarius team**  
