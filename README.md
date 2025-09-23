@@ -1,4 +1,4 @@
-# ⟦ 𝑵𝒊𝒌𝒊𝒕𝒂 𝑨𝒏𝒅𝒓é 𝑳𝒖𝒌š𝒂 ⟧  
+# ⟦ 𝑵𝒊𝒌𝒊𝒕𝒂 𝑨𝒏𝒅𝒓é 𝑳𝒖𝒌š𝒂 / Нікіта Андрэ Лукша ⟧  
 
 > ML/AI Developer · Data Science · Entrepreneur  
 > (they/them — not as binary as my code)  
