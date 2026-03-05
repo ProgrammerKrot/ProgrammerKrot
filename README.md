@@ -7,7 +7,7 @@
 ⟡ Passionate about **AI, Blockchain, Open Source and Crypto**  
 ⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije · IPCA   
 ⟡ WebSummit attendant, **Cisco** and **Yandex** graduate  
-⟡ ONI · Worldskills · Worldskills Junior  
+⟡ ONI · Worldskills · Worldskills Junior · HeadHunter Championship Finalist
 ⟡ Arch Linux user <img src="https://archlinux.org/static/logos/archlinux-logo-light-scalable.svg" width="50"/>  
 
 Outside code: ukulele, cyberpunk ideas, startups, and sometimes grass 🌱  
