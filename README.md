@@ -1,4 +1,4 @@
-# 𝑵𝒊𝒌𝒊𝒕𝒂 𝑨𝒏𝒅𝒓é 𝑳𝒖𝒌š𝒂  
+# 𝒂.𝒌.𝒂. 𝑾𝒆𝒓𝒕𝒆𝒓 𝑲𝒓𝒐𝒕
 
 > ML/AI Developer · Data Science · Entrepreneur  
 
@@ -7,7 +7,7 @@
 ⟡ Passionate about **AI, Blockchain, Open Source and Crypto**  
 ⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije · IPCA   
 ⟡ WebSummit attendant, **Cisco** and **Yandex** graduate  
-⟡ ONI · Worldskills · Worldskills Junior · HeadHunter Championship Finalist  
+⟡ ONI · Worldskills · Worldskills Junior · HeadHunter Championship  
 ⟡ Arch Linux user <img src="https://archlinux.org/static/logos/archlinux-logo-light-scalable.svg" width="50"/>  
 
 Outside code: ukulele, cyberpunk ideas, startups, and sometimes grass 🌱  
