@@ -8,7 +8,7 @@
 ⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije · IPCA   
 ⟡ WebSummit attendant, **Cisco** and **Yandex** graduate  
 ⟡ ONI · Worldskills · Worldskills Junior · HeadHunter Championship  
-⟡ Arch Linux user <img src="https://archlinux.org/static/logos/archlinux-logo-light-scalable.svg" width="50"/>  
+⟡ Manjaro Linux user <img src="[https://manjaro.org/logo.svg]" width="50"/>  
 
 Outside code: ukulele, cyberpunk ideas, startups, and sometimes grass 🌱  
 Proud of my girlfriend **Elle** ❖ Grateful for the **novAIcarius team**  
