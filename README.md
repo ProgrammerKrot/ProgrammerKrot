@@ -8,7 +8,7 @@
 ⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije · IPCA   
 ⟡ WebSummit attendant, **Cisco** and **Yandex** graduate  
 ⟡ ONI · Worldskills · Worldskills Junior · HeadHunter Championship  
-⟡ I use Manjaro 🟢
+⟡ I use Manjaro 🟢 · Хай будзе!
 
 Outside code: ukulele, cyberpunk ideas, startups, and sometimes grass 🌱  
 Proud of my girlfriend **Elle** ❖ Grateful for the **novAIcarius team**  
