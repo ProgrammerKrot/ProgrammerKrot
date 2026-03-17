@@ -3,7 +3,7 @@
 > ML/AI Developer · Data Science · Entrepreneur  
 
 ⟡ Main Architect at **novAIcarius**  
-⟡ Building the **Universal PDF Formatting Tool**  
+⟡ Building the **Language Evolution within Generative Agents**  
 ⟡ Passionate about **AI, Blockchain, Open Source and Crypto**  
 ⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije · IPCA   
 ⟡ WebSummit attendant, **Cisco** and **Yandex** graduate  
