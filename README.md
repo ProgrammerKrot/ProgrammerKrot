@@ -5,7 +5,8 @@
 ⟡ Main Architect at **novAIcarius**  
 ⟡ Building the **Language Evolution Model**  
 ⟡ Passionate about **AI, Blockchain, Open Source and Crypto**  
-⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije · IPCA   
+⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije
+⟡ Student of UMinho (Ciências da Computação) and IPCA (Segurança e Proteção de Dados para Sistemas de Informação)
 ⟡ WebSummit attendant, **Cisco** and **Yandex** graduate  
 ⟡ ONI · Worldskills · Worldskills Junior · HeadHunter Championship  
 ⟡ I use Manjaro / GhostBSD 👺🟢 · Хай будзе!
