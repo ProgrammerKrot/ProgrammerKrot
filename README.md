@@ -2,17 +2,21 @@
 
 > ML/AI Developer · Data Science · Entrepreneur  
 
-⟡ Main Architect at **novAIcarius**  
-⟡ Building the **Language Evolution Model**  
-⟡ Passionate about **AI, Blockchain, Open Source and Crypto**  
-⟡ Offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije
-⟡ Student of UMinho (Ciências da Computação) and IPCA (Segurança e Proteção de Dados para Sistemas de Informação)
-⟡ WebSummit attendant, **Cisco** and **Yandex** graduate  
-⟡ ONI · Worldskills · Worldskills Junior · HeadHunter Championship  
-⟡ I use Manjaro / GhostBSD 👺🟢 · Хай будзе!
+* ⟡ Main Architect at **novAIcarius**  
+* ⟡ Building the **Language Evolution Model**  
+* ⟡ Passionate about **AI, Blockchain, Open Source, and Crypto**  
+* ⟡ Offers from: ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije  
+* ⟡ Student at:  
+  * **UMinho** (Ciências da Computação)  
+  * **IPCA** (Segurança e Proteção de Dados para Sistemas de Informação)  
+* ⟡ WebSummit attendee · **Cisco** and **Yandex** graduate  
+* ⟡ Contests: ONI · Worldskills · Worldskills Junior · HeadHunter Championship  
+* ⟡ Tech stack / OS: Manjaro / GhostBSD 👺🟢 · Хай будзе!  
 
-Outside code: ukulele, cyberpunk ideas, startups, and sometimes grass 🌱  
-Proud of my girlfriend **Elle** ❖ Grateful for the **novAIcarius team**  
+---
+
+**Outside code:** Ukulele, cyberpunk ideas, startups, and sometimes grass 🌱  
+**People:** Proud of my girlfriend **Elle** ❖ Grateful for the **novAIcarius team**  
 
 ✉ **nikitaluksha@novaicarius.com**  
 
