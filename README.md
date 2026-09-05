@@ -7,10 +7,10 @@
 * ⟡ Passionate about **AI, Blockchain, Open Source, and Crypto**  
 * ⟡ Offers from: ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije  
 * ⟡ Student at:  
-  * **UMinho** (Ciências da Computação)  
-  * **IPCA** (Segurança e Proteção de Dados para Sistemas de Informação)  
+  * **Universidade do Minho** em Ciências da Computação  
+  * **Universidade Politécnica do Cávado e do Ave** em Segurança e Proteção de Dados para Sistemas de Informação  
 * ⟡ WebSummit attendee · **Cisco** and **Yandex** graduate  
-* ⟡ Contests: ONI · Worldskills · Worldskills Junior · HeadHunter Championship  
+* ⟡ Winner of ONI · Worldskills · Worldskills Junior · HeadHunter Championship  
 * ⟡ Tech stack / OS: Manjaro / GhostBSD 👺🟢 · Хай будзе!  
 
 ---
