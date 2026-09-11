@@ -1,24 +1,24 @@
 # 𝒂.𝒌.𝒂. 𝑾𝒆𝒓𝒕𝒆𝒓 𝑲𝒓𝒐𝒕
 
-> ML/AI Developer · Data Science · Entrepreneur  
+> Backend · Data Science · Entrepreneur  
 
-* ⟡ Main Architect at **novAIcarius**  
-* ⟡ Building the **Language Evolution Model**  
-* ⟡ Passionate about **AI, Blockchain, Open Source, and Crypto**  
-* ⟡ Offers from: ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije  
-* ⟡ Student at:  
-  * **Universidade do Minho**: Ciências da Computação  
-  * **Universidade Politécnica do Cávado e do Ave**: Segurança e Proteção de Dados para Sistemas de Informação  
-* ⟡ WebSummit attendee · **Cisco** and **Yandex** graduate  
-* ⟡ Winner of ONI · Worldskills · Worldskills Junior · HeadHunter Championship  
-* ⟡ Tech stack / OS: Manjaro / GhostBSD 👺🟢 · Хай будзе!  
+* ⟡ At **novAIcarius** [SmartKitten](https://smartkitten.net) and [Agendai360](https://agendai360.com)
+* ⟡ Public work: sale/rent **price models**, Arch live ISO, PDF layout QA, Docker/Telegram tools
+* ⟡ Student at:
+  * **Universidade do Minho**: Ciências da Computação
+  * **IPCA**: Segurança e Proteção de Dados para Sistemas de Informação
+  * And offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije  
+* ⟡ WebSummit · **Cisco** + **Yandex** graduate  
+* ⟡ ONI · WorldSkills · WorldSkills Junior · HeadHunter Championship
+* ⟡ OS: Manjaro / GhostBSD 👺🟢
 
 ---
 
-**Outside code:** Ukulele, cyberpunk ideas, startups, and sometimes grass 🌱  
+**Outside code:** Ukulele · grass 🌱 · **be** / **en** / **pt**
 **People:** Proud of my girlfriend **Elle** ❖ Grateful for the **novAIcarius team**  
 
-✉ **nikitaluksha@novaicarius.com**  
+✉ **nikitaluksha@novaicarius.com** **(work)**  
+✉ **nikitaluksha@icloud.com** **(personal)**  
 
 ---
 
