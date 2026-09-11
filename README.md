@@ -15,6 +15,7 @@
 ---
 
 **Outside code:** Ukulele · grass 🌱 · **be** / **en** / **pt**
+
 **People:** Proud of my girlfriend **Elle** ❖ Grateful for the **novAIcarius team**  
 
 ✉ **nikitaluksha@novaicarius.com** **(work)**  
