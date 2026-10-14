@@ -1,4 +1,7 @@
-# 𝒂.𝒌.𝒂. 𝑾𝒆𝒓𝒕𝒆𝒓 𝑲𝒓𝒐𝒕
+# <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Coat_of_arms_of_Belarus_%281991%E2%80%931995%29.svg" width="34" align="center" alt="Pahonia" /> ***Nikita Lukša***
+
+
+a.k.a Werter Krot
 
 > Backend · Data Science · Entrepreneur  
 
