@@ -1,6 +1,6 @@
 <h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Coat_of_arms_of_Belarus_%281991%E2%80%931995%29.svg" width="48" align="center" alt="Pahonia" />
-  <span style="font-size: 1.6em; vertical-align: middle;"><b><i>Nikita Lukša</i></b></span>
+  <span style="font-size: 2.0em; vertical-align: middle;"><b><i>Nikita Lukša</i></b></span>
 </h1>
 
 
