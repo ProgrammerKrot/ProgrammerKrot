@@ -1,4 +1,7 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Coat_of_arms_of_Belarus_%281991%E2%80%931995%29.svg" width="34" align="center" alt="Pahonia" /> ***Nikita Lukša***
+<h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Coat_of_arms_of_Belarus_%281991%E2%80%931995%29.svg" width="48" align="center" alt="Pahonia" />
+  <span style="font-size: 1.6em; vertical-align: middle;"><b><i>Nikita Lukša</i></b></span>
+</h1>
 
 
 a.k.a Werter Krot
