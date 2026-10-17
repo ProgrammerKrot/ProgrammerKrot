@@ -15,7 +15,7 @@ a.k.a Werter Krot
   * **IPCA**: Segurança e Proteção de Dados para Sistemas de Informação
   * And offers from ESSEC · CentraleSupélec · Paris-Saclay · RHIT · NYIT · Reed · Vrije  
 * ⟡ WebSummit · **Cisco** + **Yandex** graduate  
-* ⟡ ONI · WorldSkills · WorldSkills Junior · HeadHunter Championship
+* ⟡ MIUP · ONI · WorldSkills · WorldSkills Junior · HeadHunter Championship
 * ⟡ OS: Manjaro / GhostBSD 👺🟢
 
 ---
